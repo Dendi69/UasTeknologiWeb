@@ -25,7 +25,7 @@ Kerjakan
 
 A. Mockup Crud Sederhana
 
-![Aplikasi Crud](https://user-images.githubusercontent.com/46511665/87127192-623cc000-c242-11ea-9a3f-afb0e09da6ed.jpg
+![Aplikasi Crud](https://user-images.githubusercontent.com/46511665/87127703-3241ec80-c243-11ea-93b4-a3df75fd478a.jpg)
 
 B. Codingan Index.php
 
