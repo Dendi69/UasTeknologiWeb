@@ -1,12 +1,27 @@
 # UasTeknologiWeb
 
-Assalamualaikum wr wb
+Nama : Dendi DanuBrata S
 
-Pak ini hasil tugas UAS yang telah saya kerjakan bedasarkan perintah yang bapak berikan
-untuk hasil ScreenShoot ada di folder pak semnua hasil ada disitu.
-
-Nama  : Dendi DanuBrata S
-
-Nim   : 311810740
+NIM : 311810740
 
 Kelas : TI.18.A.3
+
+Assalamualaikum wr wb
+
+Buatlah Aplikasi CRUD sederhana dengan ketentuan :
+
+1. Halaman HTML dan CSS bedasarkan mockup desain yang telah anda buat pada soal UTS.
+2. fungsi pencarian pada list datanya.
+3. Fungsi paging pada list datanya
+
+Tema Desain Web:
+
+Ganjil
+
+Kerjakan
+
+1. Hasil Pekerjaan submit pada repository github masing-masing, sertakan screenshoot
+2. Publikasikan / Unggah pada Hosting
+
+A. Mockup Crud Sederhana
+
