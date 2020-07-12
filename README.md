@@ -23,6 +23,10 @@ Kerjakan
 1. Hasil Pekerjaan submit pada repository github masing-masing, sertakan screenshoot
 2. Publikasikan / Unggah pada Hosting
 
+web Hosting
+
+http://upbdashboard.epizy.com/
+
 A. Mockup Crud Sederhana
 
 ![Aplikasi Crud](https://user-images.githubusercontent.com/46511665/87127703-3241ec80-c243-11ea-93b4-a3df75fd478a.jpg)
